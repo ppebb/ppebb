@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there!
+I write code that no one asked for!
 
-<!--
-**pollen00/pollen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## I currently use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/dotnet/csharplang">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="Csharp" style="vertical-align:top; margin:4px">
+    </a>
+
+I don't have the motivation to learn anything else...
+
+## Current Projects
+
+I'm currently working on [tConfigWrapper](https://github.com/pollen00/tConfigWrapper).\
+Please contribute, I have no idea how I am going to load scripts.
+
+There's nothing else...
