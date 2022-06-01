@@ -1,7 +1,6 @@
 ### hi. im pollen, or [ppeb](https://ppeb.me).
-`pollen__#4062` ([server](https://discord.gg/EB6yPZj)) // `@ppeb:matrix.org` // [ppeb@ppeb.me](mailto:ppeb@ppeb.me)
-
 ---
+`pollen__#4062` ([server](https://discord.gg/EB6yPZj)) // `@ppeb:matrix.org` // [ppeb@ppeb.me](mailto:ppeb@ppeb.me)
 
 programmer and arch linux user. neovim and dwm ricer. general programming ability in many languages: c#, javascript, typescript, lua(?), bash, python, and more soon. terraria modder. i like open source.
 
@@ -16,45 +15,6 @@ a few small, and mostly dead projects. i have a desire to revive most of them bu
 * [tml setup tool](https://github.com/pollen00/tModLoader/tree/linussetup/setup), rewrite of the exiting tmodloader setup tool for crossplatform cli. unfinished, should be worked on soon.
 
 nothing here is too impressive sadly.
-
----
-
-#### statistics
-<style>
-    .parent {
-        position: relative;
-        top: 0;
-        left: 0;
-        margin: auto;
-    }
-
-    .generalstats {
-        position: absolute;
-        left: 0px;
-        border: 1px solid #000000;
-        width: 49%;
-    }
-
-    .streakstats {
-        position: relative;
-        top: 0;
-        left: 0;
-        border: 1px solid #000000;
-        width: 49%;
-    }
-
-    .langstats {
-        position: relative;
-        border: 1px solid #000000;
-        width: 41.5%;
-    }
-</style>
-
-<div class="parent">
-    <img class="generalstats"  src="https://github-readme-stats.vercel.app/api?username=pollen00&hide_border=true&show_icons=true&theme=tokyonight" alt="general stats"/>
-    <img class="streakstats" src="https://github-readme-streak-stats.herokuapp.com/?user=pollen00&hide_border=true&theme=tokyonight" alt="streak stats"/>
-    <img class="langstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollen00&hide_border=true&theme=tokyonight" alt="lang stats"/>
-</div>
 
 ---
 
