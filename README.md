@@ -1,7 +1,7 @@
 # Hello There
-I write code that no one asked for!
+I write "niche code" (code that no one asked for)!
 
-Please contribute or else I will cry.
+Contributions welcome or w/e.
 
 ---
 <p align="center">
