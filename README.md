@@ -15,18 +15,12 @@ a few small, and mostly dead projects. i have a desire to revive most of them bu
 
 nothing here is too impressive sadly.
 
----
+## statistics
 
-<p align="center">
-    <a href="https://steamcommunity.com/id/pollen__/"/>
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:4px"/>
-    </a>
-    <a href="https://discord.com/invite/EB6yPZj"/>
-        <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:4px"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCNAzyeFNgiKHLoA9dUAs05w"/>
-        <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px"/>
-    </a>
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pollen00&hide_border=true&show_icons=true&theme=tokyonight" alt="general stats" width="49%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pollen00&hide_border=true&theme=tokyonight" alt="streak stats" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollen00&hide_border=true&theme=tokyonight" alt="lang stats" width="30%"/>
+</div>
 
----
+##
