@@ -20,7 +20,7 @@ nothing here is too impressive sadly.
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pollen00&hide_border=true&show_icons=true&theme=tokyonight" alt="general stats" width="49%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pollen00&hide_border=true&theme=tokyonight" alt="streak stats" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollen00&hide_border=true&theme=tokyonight" alt="lang stats" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollen00&hide_border=true&layout=compact&theme=tokyonight" alt="lang stats" width = "40%"/>
 </div>
 
 ##
