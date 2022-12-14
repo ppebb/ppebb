@@ -1,6 +1,6 @@
 ## hi. im pollen, or [ppeb](https://ppeb.me).
 
-`pollen__#4062` ([server](https://discord.gg/EB6yPZj)) // `@ppeb:matrix.org` // [ppeb@ppeb.me](mailto:ppeb@ppeb.me)
+`ppeb#4062` ([server](https://discord.gg/EB6yPZj)) // `@ppeb:matrix.org` // [ppeb@ppeb.me](mailto:ppeb@ppeb.me)
 
 programmer and arch linux user. neovim and dwm ricer. general programming ability in many languages: c#, javascript, typescript, lua(?), bash, python, and more soon. terraria modder. i like open source.
 
