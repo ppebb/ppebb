@@ -1,5 +1,5 @@
 ## ppebb (ppeb)
-Discord: ppeb/[server](https://discord.gg/EB6yPZj) | Matrix: `@ppeb:matrix.org`
+Discord: ppeb | Matrix: `@ppeb:matrix.org`
 
 ---
 <div align="center">
