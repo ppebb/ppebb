@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppebb&hide_border=true&count_private=true&theme=tokyonight">
 
 ## ppebb (ppeb)
-Discord: ppeb | Matrix: `@ppeb:matrix.org`
+Discord: ppeb | Matrix: @ppeb:matrix.org
 
 Cool website and web utilities at [ppeb.me](https://ppeb.me). Notably, I have a haste instance.
 
