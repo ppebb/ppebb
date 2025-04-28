@@ -13,3 +13,5 @@ Member of the [Retro Rewind Team](https://github.com/Retro-Rewind-Team), where I
 Check out my [Shelter plugins](https://github.com/ppebb/shelter-plugins) and my Neovim plugins: [ppebboard](https://github.com/ppebb/ppebboard), [solution-nvim](https://github.com/ppebb/solution-nvim), and [haste-nvim](https://github.com/ppebb/haste-nvim).
 
 Language stats generated with [ppebb/metrics](https://github.com/ppebb/metrics).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P71E65LF)
