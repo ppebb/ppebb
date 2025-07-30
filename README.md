@@ -12,11 +12,12 @@ Pages](https://steamcommunity.com/id/ppeb/myworkshopfiles/?appid=1281930).
 Notable tModLoader contributions too.
 
 Member of the [Retro Rewind Team](https://github.com/Retro-Rewind-Team), where
-I primarily work on
+I work on
 [wfc-server](https://github.com/Retro-Rewind-Team/wfc-server),
 [wfc-bot](https://github.com/Retro-Rewind-Team/wfc-bot),
-[pulsar](https://github.com/Retro-Rewind-Team/pulsar),
-[RetroRewindRooms](https://github.com/Retro-Rewind-Team/RetroRewindRooms),
+[rr-pulsar](https://github.com/Retro-Rewind-Team/rr-pulsar),
+[rwfc-rooms](https://github.com/Retro-Rewind-Team/rwfc-rooms),
+[rwfc-web](https://github.com/Retro-Rewind-Team/rwfc-web),
 alongside my own [pulsar-tools](https://github.com/ppebb/pulsar-tools) and
 [wfc-proxy](https://github.com/ppebb/wfc-proxy).
 
