@@ -4,14 +4,28 @@
 
 Discord: ppeb | Matrix: @ppeb:matrix.org
 
-Cool website and web utilities at [ppeb.me](https://ppeb.me). Notably, I have a haste instance.
+Cool website and web utilities at [ppeb.me](https://ppeb.me). Notably, I have a
+haste instance.
 
-Former(?) Terraria modder, see my C# repositories and my [Steam Workshop Pages](https://steamcommunity.com/id/ppeb/myworkshopfiles/?appid=1281930). Notable tModLoader contributions too.
+Former(?) Terraria modder, see my C# repositories and my [Steam Workshop
+Pages](https://steamcommunity.com/id/ppeb/myworkshopfiles/?appid=1281930).
+Notable tModLoader contributions too.
 
-Member of the [Retro Rewind Team](https://github.com/Retro-Rewind-Team), where I primarily work on [wfc-server](https://github.com/Retro-Rewind-Team/wfc-server), [wfc-bot](https://github.com/Retro-Rewind-Team/wfc-bot), [pulsar](https://github.com/Retro-Rewind-Team/pulsar), [RetroRewindRooms](https://github.com/Retro-Rewind-Team/RetroRewindRooms), alongside my own [pulsar-tools](https://github.com/ppebb/pulsar-tools) and [wfc-proxy](https://github.com/ppebb/wfc-proxy).
+Member of the [Retro Rewind Team](https://github.com/Retro-Rewind-Team), where
+I primarily work on
+[wfc-server](https://github.com/Retro-Rewind-Team/wfc-server),
+[wfc-bot](https://github.com/Retro-Rewind-Team/wfc-bot),
+[pulsar](https://github.com/Retro-Rewind-Team/pulsar),
+[RetroRewindRooms](https://github.com/Retro-Rewind-Team/RetroRewindRooms),
+alongside my own [pulsar-tools](https://github.com/ppebb/pulsar-tools) and
+[wfc-proxy](https://github.com/ppebb/wfc-proxy).
 
-Check out my [Shelter plugins](https://github.com/ppebb/shelter-plugins) and my Neovim plugins: [ppebboard](https://github.com/ppebb/ppebboard), [solution-nvim](https://github.com/ppebb/solution-nvim), and [haste-nvim](https://github.com/ppebb/haste-nvim).
+Check out my [Shelter plugins](https://github.com/ppebb/shelter-plugins) and my
+Neovim plugins: [ppebboard](https://github.com/ppebb/ppebboard),
+[solution-nvim](https://github.com/ppebb/solution-nvim), and
+[haste-nvim](https://github.com/ppebb/haste-nvim).
 
-Language stats generated with [ppebb/metrics](https://github.com/ppebb/metrics).
+Language stats generated with
+[ppebb/metrics](https://github.com/ppebb/metrics).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P71E65LF)
