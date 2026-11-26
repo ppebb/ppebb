@@ -1,0 +1,223 @@
+<svg width="480" height="205" viewBox="0 0 480
+		205" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+	aria-labelledby="descId">
+	<title id="titleId"></title>
+	<desc id="descId"></desc>
+	<style>
+		.header, .subheader { text-anchor: middle; }
+		.lang-name, .lang-perc, .lang-count { dominant-baseline: middle; }
+		.lang-perc, .lang-count { text-anchor: end; }
+
+		.header {
+			font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+			fill: #cba6f7;
+			animation: fadeInAnimation 0.8s ease-in-out forwards;
+		}
+
+		.subheader {
+			font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif;
+			fill: #6c7086;
+			animation: fadeInAnimation 1s ease-in-out forwards;
+		}
+
+		.rectbg {
+			fill: #f5e0dc;
+		}
+
+		@supports(-moz-appearance: auto) {
+
+			/* Selector detects Firefox */
+			.header {
+				font-size: 15.5px;
+			}
+		}
+
+		@keyframes slideInAnimation {
+			from {
+				width: 0;
+			}
+
+			to {
+				width: calc(100%-100px);
+			}
+		}
+
+		@keyframes growWidthAnimation {
+			from {
+				width: 0;
+			}
+
+			to {
+				width: 100%;
+			}
+		}
+
+		.bold {
+			font-weight: 700;
+		}
+
+		.lang-name, .lang-count, .lang-perc {
+			font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+		}
+
+		.lang-name {
+			fill: #cdd6f4;
+		}
+
+		.lang-count {
+			fill: #6c7086;
+		}
+
+		.lang-perc {
+			fill: #cdd6f4;
+		}
+
+		.stagger {
+			opacity: 0;
+			animation: fadeInAnimation 0.3s ease-in-out forwards;
+		}
+
+		#rect-mask rect {
+			animation: slideInAnimation 1s ease-in-out forwards;
+		}
+
+		.lang-progress {
+			animation: growWidthAnimation 0.6s ease-in-out forwards;
+		}
+
+		/* Animations */
+		@keyframes scaleInAnimation {
+			from {
+				transform: translate(-5px, 5px) scale(0);
+			}
+
+			to {
+				transform: translate(-5px, 5px) scale(1);
+			}
+		}
+
+		@keyframes fadeInAnimation {
+			from {
+				opacity: 0;
+			}
+
+			to {
+				opacity: 1;
+			}
+		}
+	</style>
+
+	<rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="100%" stroke="#f5e0dc" width="100%"
+		fill="#1e1e2e" stroke-opacity="0" />
+
+	<g data-testid="card-title" transform="translate(0, 35)">
+		<g transform="translate(0, 0)">
+			<text x="240" y="0" class="header" data-testid="header">Most Used Languages</text>
+		</g>
+	</g>
+
+	<g data-testid="card-title" transform="translate(0, 55)">
+		<g transform="translate(0, 0)">
+			<text x="240" y="0" class="subheader" data-testid="header">Across 186076 Lines of Code in 2044 Files</text>
+		</g>
+	</g>
+
+	<g data-testid="main-card-body" transform="translate(0, 65)">
+		<svg data-testid="lang-items">
+			<mask id="rect-mask">
+				<rect x="25" y="0" width="430" height="8" fill="white" rx="5" />
+			</mask>
+			<rect mask="url(#rect-mask)" x="25" y="0" width="90" height="8" fill="#7355dd" />
+			<g transform="translate(0, 0)">
+				<g class="stagger" style="animation-delay: 450ms">
+					<circle r="4" cx="31" cy="31" fill="#7355dd" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">C#</text>
+					 <text x="183" y="32" class="lang-count">38750 lines</text> 
+					<text x="227" y="32" class="lang-perc">20.82%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="115" y="0" width="79" height="8" fill="#000080" />
+			<g transform="translate(228, 0)">
+				<g class="stagger" style="animation-delay: 600ms">
+					<circle r="4" cx="31" cy="31" fill="#000080" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">Lua</text>
+					 <text x="183" y="32" class="lang-count">34296 lines</text> 
+					<text x="227" y="32" class="lang-perc">18.43%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="194" y="0" width="56" height="8" fill="#555555" />
+			<g transform="translate(0, 20)">
+				<g class="stagger" style="animation-delay: 750ms">
+					<circle r="4" cx="31" cy="31" fill="#555555" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">C</text>
+					 <text x="183" y="32" class="lang-count">24340 lines</text> 
+					<text x="227" y="32" class="lang-perc">13.08%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="250" y="0" width="54" height="8" fill="#f34b7d" />
+			<g transform="translate(228, 20)">
+				<g class="stagger" style="animation-delay: 900ms">
+					<circle r="4" cx="31" cy="31" fill="#f34b7d" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">C++</text>
+					 <text x="183" y="32" class="lang-count">23232 lines</text> 
+					<text x="227" y="32" class="lang-perc">12.49%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="304" y="0" width="48" height="8" fill="#3178c6" />
+			<g transform="translate(0, 40)">
+				<g class="stagger" style="animation-delay: 1050ms">
+					<circle r="4" cx="31" cy="31" fill="#3178c6" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">TypeScript</text>
+					 <text x="183" y="32" class="lang-count">20591 lines</text> 
+					<text x="227" y="32" class="lang-perc">11.07%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="352" y="0" width="38" height="8" fill="#00ADD8" />
+			<g transform="translate(228, 40)">
+				<g class="stagger" style="animation-delay: 1200ms">
+					<circle r="4" cx="31" cy="31" fill="#00ADD8" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">Go</text>
+					 <text x="183" y="32" class="lang-count">16303 lines</text> 
+					<text x="227" y="32" class="lang-perc">8.76%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="390" y="0" width="30" height="8" fill="#b07219" />
+			<g transform="translate(0, 60)">
+				<g class="stagger" style="animation-delay: 1350ms">
+					<circle r="4" cx="31" cy="31" fill="#b07219" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">Java</text>
+					 <text x="183" y="32" class="lang-count">12780 lines</text> 
+					<text x="227" y="32" class="lang-perc">6.87%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="420" y="0" width="18" height="8" fill="#89e051" />
+			<g transform="translate(228, 60)">
+				<g class="stagger" style="animation-delay: 1500ms">
+					<circle r="4" cx="31" cy="31" fill="#89e051" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">Shell</text>
+					 <text x="183" y="32" class="lang-count">7675 lines</text> 
+					<text x="227" y="32" class="lang-perc">4.12%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="438" y="0" width="13" height="8" fill="#f1e05a" />
+			<g transform="translate(0, 80)">
+				<g class="stagger" style="animation-delay: 1650ms">
+					<circle r="4" cx="31" cy="31" fill="#f1e05a" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">JavaScript</text>
+					 <text x="183" y="32" class="lang-count">5413 lines</text> 
+					<text x="227" y="32" class="lang-perc">2.91%</text>
+				</g>
+			</g>
+			<rect mask="url(#rect-mask)" x="451" y="0" width="26" height="8" fill="#dea584" />
+			<g transform="translate(228, 80)">
+				<g class="stagger" style="animation-delay: 1800ms">
+					<circle r="4" cx="31" cy="31" fill="#dea584" />
+					<text data-testid="lang-name" x="51" y="32" class="lang-name">Rust</text>
+					 <text x="183" y="32" class="lang-count">2696 lines</text> 
+					<text x="227" y="32" class="lang-perc">1.45%</text>
+				</g>
+			</g>
+
+		</svg>
+	</g>
+</svg>
