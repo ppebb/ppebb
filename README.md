@@ -1,4 +1,4 @@
-<img align="right" src="https://ppeb.me/files/langs.svg">
+<img align="right" src="https://raw.githubusercontent.com/ppebb/ppebb/refs/heads/assets/langs.svg">
 
 ### ppebb (ppeb)
 
