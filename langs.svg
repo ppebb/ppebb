@@ -1,5 +1,5 @@
-<svg width="480" height="225" viewBox="0 0 480
-		225" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+<svg width="480" height="205" viewBox="0 0 480
+		205" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
 	aria-labelledby="descId">
 	<title id="titleId"></title>
 	<desc id="descId"></desc>
@@ -118,7 +118,7 @@
 
 	<g data-testid="card-title" transform="translate(0, 55)">
 		<g transform="translate(0, 0)">
-			<text x="240" y="0" class="subheader" data-testid="header">Across 191006 Lines of Code in 2044 Files</text>
+			<text x="240" y="0" class="subheader" data-testid="header">Across 186076 Lines of Code in 2044 Files</text>
 		</g>
 	</g>
 
@@ -127,112 +127,94 @@
 			<mask id="rect-mask">
 				<rect x="25" y="0" width="430" height="8" fill="white" rx="5" />
 			</mask>
-			<rect mask="url(#rect-mask)" x="25" y="0" width="87" height="8" fill="#7355dd" />
+			<rect mask="url(#rect-mask)" x="25" y="0" width="90" height="8" fill="#7355dd" />
 			<g transform="translate(0, 0)">
 				<g class="stagger" style="animation-delay: 450ms">
 					<circle r="4" cx="31" cy="31" fill="#7355dd" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">C#</text>
 					 <text x="183" y="32" class="lang-count">38750 lines</text> 
-					<text x="227" y="32" class="lang-perc">20.29%</text>
+					<text x="227" y="32" class="lang-perc">20.82%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="112" y="0" width="77" height="8" fill="#000080" />
+			<rect mask="url(#rect-mask)" x="115" y="0" width="79" height="8" fill="#000080" />
 			<g transform="translate(228, 0)">
 				<g class="stagger" style="animation-delay: 600ms">
 					<circle r="4" cx="31" cy="31" fill="#000080" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">Lua</text>
 					 <text x="183" y="32" class="lang-count">34296 lines</text> 
-					<text x="227" y="32" class="lang-perc">17.96%</text>
+					<text x="227" y="32" class="lang-perc">18.43%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="189" y="0" width="55" height="8" fill="#555555" />
+			<rect mask="url(#rect-mask)" x="194" y="0" width="56" height="8" fill="#555555" />
 			<g transform="translate(0, 20)">
 				<g class="stagger" style="animation-delay: 750ms">
 					<circle r="4" cx="31" cy="31" fill="#555555" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">C</text>
 					 <text x="183" y="32" class="lang-count">24340 lines</text> 
-					<text x="227" y="32" class="lang-perc">12.74%</text>
+					<text x="227" y="32" class="lang-perc">13.08%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="244" y="0" width="52" height="8" fill="#f34b7d" />
+			<rect mask="url(#rect-mask)" x="250" y="0" width="54" height="8" fill="#f34b7d" />
 			<g transform="translate(228, 20)">
 				<g class="stagger" style="animation-delay: 900ms">
 					<circle r="4" cx="31" cy="31" fill="#f34b7d" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">C++</text>
 					 <text x="183" y="32" class="lang-count">23232 lines</text> 
-					<text x="227" y="32" class="lang-perc">12.16%</text>
+					<text x="227" y="32" class="lang-perc">12.49%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="296" y="0" width="46" height="8" fill="#3178c6" />
+			<rect mask="url(#rect-mask)" x="304" y="0" width="48" height="8" fill="#3178c6" />
 			<g transform="translate(0, 40)">
 				<g class="stagger" style="animation-delay: 1050ms">
 					<circle r="4" cx="31" cy="31" fill="#3178c6" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">TypeScript</text>
 					 <text x="183" y="32" class="lang-count">20591 lines</text> 
-					<text x="227" y="32" class="lang-perc">10.78%</text>
+					<text x="227" y="32" class="lang-perc">11.07%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="342" y="0" width="37" height="8" fill="#00ADD8" />
+			<rect mask="url(#rect-mask)" x="352" y="0" width="38" height="8" fill="#00ADD8" />
 			<g transform="translate(228, 40)">
 				<g class="stagger" style="animation-delay: 1200ms">
 					<circle r="4" cx="31" cy="31" fill="#00ADD8" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">Go</text>
 					 <text x="183" y="32" class="lang-count">16303 lines</text> 
-					<text x="227" y="32" class="lang-perc">8.54%</text>
+					<text x="227" y="32" class="lang-perc">8.76%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="379" y="0" width="29" height="8" fill="#b07219" />
+			<rect mask="url(#rect-mask)" x="390" y="0" width="30" height="8" fill="#b07219" />
 			<g transform="translate(0, 60)">
 				<g class="stagger" style="animation-delay: 1350ms">
 					<circle r="4" cx="31" cy="31" fill="#b07219" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">Java</text>
 					 <text x="183" y="32" class="lang-count">12780 lines</text> 
-					<text x="227" y="32" class="lang-perc">6.69%</text>
+					<text x="227" y="32" class="lang-perc">6.87%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="408" y="0" width="17" height="8" fill="#89e051" />
+			<rect mask="url(#rect-mask)" x="420" y="0" width="18" height="8" fill="#89e051" />
 			<g transform="translate(228, 60)">
 				<g class="stagger" style="animation-delay: 1500ms">
 					<circle r="4" cx="31" cy="31" fill="#89e051" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">Shell</text>
 					 <text x="183" y="32" class="lang-count">7675 lines</text> 
-					<text x="227" y="32" class="lang-perc">4.02%</text>
+					<text x="227" y="32" class="lang-perc">4.12%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="425" y="0" width="12" height="8" fill="#f1e05a" />
+			<rect mask="url(#rect-mask)" x="438" y="0" width="13" height="8" fill="#f1e05a" />
 			<g transform="translate(0, 80)">
 				<g class="stagger" style="animation-delay: 1650ms">
 					<circle r="4" cx="31" cy="31" fill="#f1e05a" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">JavaScript</text>
 					 <text x="183" y="32" class="lang-count">5413 lines</text> 
-					<text x="227" y="32" class="lang-perc">2.83%</text>
+					<text x="227" y="32" class="lang-perc">2.91%</text>
 				</g>
 			</g>
-			<rect mask="url(#rect-mask)" x="437" y="0" width="6" height="8" fill="#dea584" />
+			<rect mask="url(#rect-mask)" x="451" y="0" width="26" height="8" fill="#dea584" />
 			<g transform="translate(228, 80)">
 				<g class="stagger" style="animation-delay: 1800ms">
 					<circle r="4" cx="31" cy="31" fill="#dea584" />
 					<text data-testid="lang-name" x="51" y="32" class="lang-name">Rust</text>
 					 <text x="183" y="32" class="lang-count">2696 lines</text> 
-					<text x="227" y="32" class="lang-perc">1.41%</text>
-				</g>
-			</g>
-			<rect mask="url(#rect-mask)" x="443" y="0" width="6" height="8" fill="#6E4C13" />
-			<g transform="translate(0, 100)">
-				<g class="stagger" style="animation-delay: 1950ms">
-					<circle r="4" cx="31" cy="31" fill="#6E4C13" />
-					<text data-testid="lang-name" x="51" y="32" class="lang-name">Unix Assembly</text>
-					 <text x="183" y="32" class="lang-count">2561 lines</text> 
-					<text x="227" y="32" class="lang-perc">1.34%</text>
-				</g>
-			</g>
-			<rect mask="url(#rect-mask)" x="449" y="0" width="25" height="8" fill="#3D6117" />
-			<g transform="translate(228, 100)">
-				<g class="stagger" style="animation-delay: 2100ms">
-					<circle r="4" cx="31" cy="31" fill="#3D6117" />
-					<text data-testid="lang-name" x="51" y="32" class="lang-name">TeX</text>
-					 <text x="183" y="32" class="lang-count">2369 lines</text> 
-					<text x="227" y="32" class="lang-perc">1.24%</text>
+					<text x="227" y="32" class="lang-perc">1.45%</text>
 				</g>
 			</g>
 
